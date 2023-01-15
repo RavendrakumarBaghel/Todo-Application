@@ -1,0 +1,19 @@
+.task{
+    /* background: darkgrey; */
+    font-size: x-large;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: auto;
+}
+.container{
+    text-align: center;
+    padding-bottom: 11px;
+    padding-top: 2px;
+     background-color: skyblue;
+     margin-left: 300px;
+    margin-right: 225px;
+
+}
+h1{
+    text-align: center;
+}
